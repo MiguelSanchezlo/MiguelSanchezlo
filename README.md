@@ -1,16 +1,36 @@
-## Hi there 👋
+## 👋 ¡Hola, soy Miguel!  
+### 💻 Aprendiz de Desarrollo de Software | 🚀 Apasionado por la Programación y la ciberseguridad
 
-<!--
-**MiguelSanchezlo/MiguelSanchezlo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```python
+print("Bienvenido a mi perfil de GitHub 👨‍💻")
+```
 
-Here are some ideas to get you started:
+Soy un entusiasta del desarrollo de software con conocimientos en **.NET, Spring Boot, JSP, PHP, HTML, CSS, JavaScript, Node, Bootstrap, C#, y SQL**.
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologías y Herramientas  
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,php,html,css,js,nodejs,bootstrap,cs,dotnet,sql" />
+</div>
+
+---
+
+### 📊 Mis Estadísticas
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SalomonX&show_icons=true&theme=radical" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SalomonX&theme=radical" />
+</div>
+
+---
+
+### 💡 Un Dato Curioso sobre Programación
+> "El primer bug informático fue un error causado por una polilla en un relé de la computadora Mark II en 1947." 🐛
+
+---
+
+### 📩 Contacto
+🔗 **LinkedIn:** [https://www.linkedin.com/in/miguel-s%C3%A1nchez-a0274a207/](https://www.linkedin.com/in/miguel-s%C3%A1nchez-a0274a207/)  
+
+
+Si te gusta mi perfil, ¡no dudes en conectar conmigo! 🚀
