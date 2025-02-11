@@ -17,9 +17,9 @@ Soy un entusiasta del desarrollo de software con conocimientos en **.NET, Spring
 
 ### 📊 Mis Estadísticas
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SalomonX&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Miguel&show_icons=true&theme=radical" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SalomonX&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Miguel&theme=radical" />
 </div>
 
 ---
