@@ -34,11 +34,18 @@ Como estudiante, estoy abierto a adaptarme a nuevas herramientas y metodologías
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MiguelSanchezlo&theme=radical" />
 </div>
 
----
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelSanchezlo&layout=compact&theme=radical" />
 </div>
+
+---
+
+### 🛤️ Roadmap de Aprendizaje
+Actualmente estoy aprendiendo y mejorando mis habilidades en:
+- 📊 **Ciencia de Datos** – Análisis de datos, Python para data science, pandas, NumPy.
+- 🐧 **Linux** – Administración de sistemas, comandos básicos y avanzados, scripting.
+- 🌐 **Redes** – Fundamentos de redes, protocolos, seguridad en redes.
+- 🔒 **Ciberseguridad** – Pruebas de penetración, hardening de sistemas, OWASP.
 
 ---
 
