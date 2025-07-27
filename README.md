@@ -1,8 +1,8 @@
 ## 👋 ¡Hola, soy Miguel!  
-### 💻 Aprendiz de Desarrollo de Software | 🚀 Apasionado por la Programación y la ciberseguridad
+### Desarrollador de Software con enfoque en Ciberseguridad | Analista de Seguridad de Aplicaciones (AppSec) en formación
 
 ```python
-print("Bienvenido a mi perfil de GitHub 👨‍💻")
+print("""Mi experiencia como desarrollador full-stack me da una perspectiva única para la ciberseguridad. Entiendo cómo se crean las aplicaciones desde dentro, lo que me permite identificar, analizar y mitigar vulnerabilidades que otros podrían pasar por alto. Ahora estoy aplicando esta base sólida para especializarme en la seguridad ofensiva y la protección de aplicaciones web.""")
 ```
 
 Aprendiz SENA en Análisis y Desarrollo de Software, con formación en herramientas y lenguajes como .NET, Java, Spring Boot, JSP, PHP, HTML, CSS, JavaScript, Node.js, Bootstrap, C#, Git y SQL. Con conocimientos en desarrollo de software, me interesa especialmente el desarrollo de aplicaciones web, y estoy buscando oportunidades para aplicar lo aprendido y seguir creciendo en el área.
